@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Hi ! My name is Anand... a MERN stack developer with a knack for solving problems creatively through code. I use MERN to craft innovative web solutions.</h2>
+<h3 align="left">Hi 👋! Hi ! My name is Anand with a knack for solving problems creatively through code</h3>
 
 ###
 
