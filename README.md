@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! Hi ! My name is Anand with a knack for solving problems creatively through code</h3>
+<h4 align="left">Hi👋 My name is Anand, MERN stack developer with a knack for solving problems creatively through code</h4>
 
 ###
 
