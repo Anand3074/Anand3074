@@ -1,4 +1,5 @@
-<h4 align="left">Hi👋 My name is Anand, MERN stack developer with a knack for solving problems creatively through code</h4>
+<h4 align="left">Hi👋 My name is Anand, Enthusiastic Software Developer skilled in Python, JavaScript, and full-stack development. Strong grounding in DSA, OOP, and modern web technologies. Experienced in building scalable applications and collaborating in agile teams. Seeking opportunities to apply engineering fundamentals to real-world projects.
+</h4>
 
 ###
 
